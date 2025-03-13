@@ -38,6 +38,4 @@ build/
 *.swn
 *.sublime-workspace
 
-# Ignore Docker files (if using Codespaces)
-.devcontainer/
-docker-compose.override.yml
+
